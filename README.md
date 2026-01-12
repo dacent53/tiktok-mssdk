@@ -2,8 +2,8 @@
 tiktok x-ladon, tiktok x-argus, tiktok x-gorgon, tiktok x-khronos, tiktok device register, tiktok api, mssdk
 
 ### contact me
-**Contact for api :** [https://t.me/alethino](https://t.me/alethino)
-## telegram: @alethino
+**Contact for api :** [https://t.me/dacent53](https://t.me/dacent53)
+## telegram: @dacent53
 # test api last version
 
 
@@ -31,9 +31,9 @@ tiktok x-ladon, tiktok x-argus, tiktok x-gorgon, tiktok x-khronos, tiktok device
 21. resolve captcha
 
 ### contact me
-**Contact for api :** [https://t.me/alethino](https://t.me/alethino)
-## telegram: @alethino
+**Contact for api :** [https://t.me/dacent53](https://t.me/dacent53)
+## telegram: @dacent53
 
 ### contact me
-## Contact Telegram @alethino
-https://t.me/alethino
+## Contact Telegram @dacent53
+https://t.me/dacent53
